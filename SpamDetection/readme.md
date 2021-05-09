@@ -6,7 +6,7 @@
   > Tag 1: Spam message
   > Tag 0: ham message
  
-  - This type of models helps in identifying the spam messages and tag the data as spam. So users will not loose their time by going through each and every messages they recieve.
+  - This type of models helps in identifying the spam messages and tag the data as spam. So users will not loose their time by going through each and every messages they receive.
 
 
 **Files Uploaded**

@@ -11,4 +11,4 @@
 
 **Files Uploaded**
   - `SpamDetectorFinalVersion.ipynb` : Contains preprocessing and model building.
-  - `SpamDetectorFinalVersion -Compressed.ipynb` : Useful for local execution of code
+  - `SpamDetectorFinalVersion -Compressed.ipynb` : Same as the above file (Useful for local execution of code)
